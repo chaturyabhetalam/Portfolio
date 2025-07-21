@@ -1,4 +1,4 @@
-# 💼 Personal Portfolio Website
+# 💼 Personal Portfolio 
 
 A clean and beginner-friendly **portfolio landing page** built using **HTML** and **CSS**. It showcases personal info, a profile picture, bio, and social/contact links — perfect for developers just starting their journey and wanting an online presence.
 
